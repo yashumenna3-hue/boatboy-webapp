@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = '<h1>Welcome to BoatBoy WebApp</h1>';
